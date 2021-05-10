@@ -1,0 +1,17 @@
+msgid "bad request!"
+msgstr "درخواست ارسالی اشتباه میباشد."
+
+msgid "login failed!"
+msgstr "لاگین ناموفق"
+
+msgid "done!"
+msgstr "با موفقیت انجام شد."
+
+msgid "password fields didn't match!"
+msgstr "رمزهای عبور مطابقت ندارند."
+
+msgid "occurred error!"
+msgstr "مشکلی پیش آمده است."
+
+msgid "there is no exist result with this request!"
+msgstr "نتیجه ای مطابق درخواست شما یافت نشد."
